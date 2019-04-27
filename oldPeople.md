@@ -113,6 +113,9 @@
 > * 所属部门
 > * 所属主管
 
+#### app 下载
+
+<img src="image/703FC79B-B249-4220-A2F6-1D264C9AE822.png" width='300px'/>
 
 ### &nbsp;
 ### &nbsp;
