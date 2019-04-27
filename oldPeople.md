@@ -18,3 +18,6 @@
 > * userName：`qianTai`
 > * passWord: `888888`
 
+### 后台功能
+![avatar](image/0EBD3EB0-A75A-46DF-BF45-AB1327D1FD40.png)
+
