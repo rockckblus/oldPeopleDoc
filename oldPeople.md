@@ -5,8 +5,8 @@
   > * userName：`admin`
   > * passWord: `123456`
 - #### 测试员工账号(web管理后台)
->
- 主管1(总务部，司机部)
+
+> 主管1(总务部，司机部)
 > * userName：`zhuGuan3`
 > * passWord: `888888`
 
