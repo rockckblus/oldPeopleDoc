@@ -115,7 +115,7 @@
 
 #### app 下载
 
-<img src="image/703FC79B-B249-4220-A2F6-1D264C9AE822.png" width='300px'/>
+https://docs.google.com/spreadsheets/d/1EWuH5Zb91F6cfB_gfFUpBBC0DYhdLhb2BFsAxpi0fRM/edit#gid=2041642456
 
 ### &nbsp;
 ### &nbsp;
