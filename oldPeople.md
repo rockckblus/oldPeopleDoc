@@ -10,11 +10,11 @@
 > * userName：`zhuGuan3`
 > * passWord: `888888`
 
- 主管2(客服部)
+> ###### 主管2(客服部)
 > * userName：`zhuGuan2`
 > * passWord: `888888`
 
- 前台员工
- > * userName：`qianTai`
- > * passWord: `888888`
+> ###### 前台员工
+> * userName：`qianTai`
+> * passWord: `888888`
 
