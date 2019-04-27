@@ -18,6 +18,18 @@
 > * userName：`qianTai`
 > * passWord: `888888`
 
+### &nbsp;
+*注：因为测试会切换多个账户，所以正确测试的方法 ，请关闭网页，从新打开*
+
+### &nbsp;
+
 ### 后台功能
-![avatar](image/0EBD3EB0-A75A-46DF-BF45-AB1327D1FD40.png)
+- #### 组织架构->组织架构
+### &nbsp;
+### &nbsp;
+![img1](image/0EBD3EB0-A75A-46DF-BF45-AB1327D1FD40.png){: width="800px" height="400px" alt="命令运行网易云音乐"}
+![avatar](image/C10B68BB-DE88-4B32-BF2D-84598F270A69.png)
+
+
+<img src="image/0EBD3EB0-A75A-46DF-BF45-AB1327D1FD40.png" />
 
