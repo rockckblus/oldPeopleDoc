@@ -9,4 +9,4 @@
 - 文档
   - [老人院项目管理后台使用简介](oldpeople/README.md)
 - weexDoc
-  - [<button-one>](weex/yinYing.md)
+  - [button-one](weex/yinYing.md)
