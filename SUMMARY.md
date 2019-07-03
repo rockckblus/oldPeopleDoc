@@ -8,6 +8,6 @@
   - [6 月 过期域名(已续费),2019.6.3](oldpeople/6yue.md)
 - [文档]
   - [老人院项目管理后台使用简介](oldpeople/README.md)
-- [weexDoc]
-  - [组件\_阴影图片]
-    - [<button-one](weex/yinYing.md)
+- weexDoc
+  - 组件\_阴影图片
+    - <button-one>(weex/yinYing.md)
