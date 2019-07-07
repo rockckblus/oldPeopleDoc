@@ -11,3 +11,5 @@
   - [老人院项目管理后台使用简介](oldpeople/README.md)
 - weexDoc
   - [button-one](weex/yinYing.md)
+  - [分割线](weex/fenGeLine.md)
+  - [按钮](weex/button.md)
