@@ -2,6 +2,7 @@
 
 ![](../.gitbook/assets/buttonSmall.png)
 <image src="../image/textImage.png"/>
+<image src="../.gitbook/assets/buttonSmall.png"/>
 
 `import myButton from "../../myCom/button/buttonSmall.vue";`
 
