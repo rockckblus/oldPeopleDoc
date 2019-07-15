@@ -1,6 +1,6 @@
 # 普通按钮 2-3 字
 
-<img src="../.gitbook/assets/buttonSmall.png" style="width:200px"/>
+<img src="../.gitbook/assets/buttonSmall.png" style="width:150px"/>
 
 `import myButton from "../../myCom/button/buttonSmall.vue";`
 
