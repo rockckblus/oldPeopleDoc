@@ -1,5 +1,7 @@
 # 普通按钮 2-3 字
 
+![](../image/buttonSmall.png)
+
 `import myButton from "../../myCom/button/buttonSmall.vue";`
 
 ```
