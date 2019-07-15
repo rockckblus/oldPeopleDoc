@@ -1,6 +1,6 @@
 # 普通按钮 2-3 字
 
-<img src="../.gitbook/assets/buttonSmall.png" style="width:150px"/>
+<img src="../.gitbook/assets/buttonSmall.png"  width='100' alt='孙悟空' title='大师兄'/>
 
 `import myButton from "../../myCom/button/buttonSmall.vue";`
 
