@@ -1,8 +1,8 @@
 # 普通按钮 2-3 字
 
 ![](../.gitbook/assets/buttonSmall.png)
-<image src="../image/textImage.png"/>
-<image src="../.gitbook/assets/buttonSmall.png"/>
+<img src="../image/textImage.png"/>
+<img src="../.gitbook/assets/buttonSmall.png"/>
 
 `import myButton from "../../myCom/button/buttonSmall.vue";`
 
