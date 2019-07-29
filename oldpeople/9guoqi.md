@@ -61,3 +61,45 @@ bestasianspamesaaz.com
 ### 90-C
 
 asianmassagehendersonnv.com
+
+---
+
+# 替换的 10 个加 19 的域名
+
+asianmassageredding19.com
+
+---
+
+aronaasianmassage19.com
+
+---
+
+asianmassagestockton19.com
+
+---
+
+asianmassagemodesto19.com
+
+---
+
+sakuraspamassage19.com
+
+---
+
+tustinasianmassage19.com
+
+---
+
+asianmassagelagunahills19.com
+
+---
+
+oasisasianmassage19.com
+
+---
+
+asianmassageglendaleaz19.com
+
+---
+
+bestasianspamesaaz19.com
