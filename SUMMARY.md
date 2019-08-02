@@ -10,6 +10,7 @@
   - [7 月 到期域名(已续费),2019.7.5](oldpeople/7yue.md)
   - [8 月 到期域名(未续费),2019.7.29](oldpeople/8yue.md)
   - [网站排名统计 2019.7.12](oldpeople/webCount.md)
+  - [流失能用的域名 2019.8.3](oldpeople/shengYuMing.md)
 - 文档
   - [老人院项目管理后台使用简介](oldpeople/README.md)
 - weexDoc
