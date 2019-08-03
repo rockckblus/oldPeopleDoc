@@ -2,7 +2,6 @@
 #asianmassageappleton.com
 #asianmassagemesa78.com
 #asianmassagesantarosa.com
-#asianmassagetemecla.com
 #asianmassagetemecula.com
 #bestvaluemassage.com
 #bodymassage168.com
