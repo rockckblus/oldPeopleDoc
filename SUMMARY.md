@@ -13,6 +13,7 @@
   - [流失能用的域名 2019.8.3](oldpeople/shengYuMing.md)
 - 文档
   - [老人院项目管理后台使用简介](oldpeople/README.md)
+  - [seo 排名接口](seo/api.md)
 - weexDoc
   - [button-one](weex/yinYing.md)
   - [分割线](weex/fenGeLine.md)
